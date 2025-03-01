@@ -20,6 +20,9 @@ permalink: /members/
 
 [![Asreetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asreetha98&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Ekshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=JogaEkshitha&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 [![chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanyakilari&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmss2009&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
